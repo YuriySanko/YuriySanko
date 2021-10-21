@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YuriySanko
 - 👀 I’m interested in IT sphere.
 - 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on traning company to learn java.
+- 💞️ I’m looking to collaborate on training company to learn java.
 - 📫 How to reach me ...
 
 <!---
